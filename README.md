@@ -7,7 +7,7 @@ This project demonstrates the setup and use of a basic SSH server on Ubuntu and 
 ## Environment Setup
 - **Ubuntu Server** (running OpenSSH server)
 - **Windows 11 Home** (acting as a client, using built-in PowerShell SSH)
-- **Networking**: Both machines configured on the same subnet for direct communication.
+- **Networking**: Both virtual machines configured on the same subnet for direct communication.
 
 ---
 
